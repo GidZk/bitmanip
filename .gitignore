@@ -2,6 +2,9 @@
 #DS store for Mac
 *.DS_Store
 
+#.vscode
+*.vscode
+
 #ignore EXE files
 *.exec
 *.exe

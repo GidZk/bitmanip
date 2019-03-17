@@ -1,4 +1,4 @@
 # bitmanip
 
-## KATTIS problem solved in c++
+## KATTIS problem solved.
 

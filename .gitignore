@@ -1,4 +1,7 @@
 
+#DS store for Mac
+*.DS_Store
 
 #ignore EXE files
+*.exec
 *.exe
